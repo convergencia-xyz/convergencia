@@ -1,17 +1,11 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+thiagobezerra:
+  name: Thiago Bezerra
+  title: Bsc Computer Science
+  url: https://github.com/thiag0bezerra
+  image_url: https://github.com/thiag0bezerra.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+convergencia:
+  name: CONVERGENCIA.XYZ
+  title: Colaboradores do projeto ❤️
+  url: https://github.com/convergencia-xyz
+  image_url: https://github.com/convergencia-xyz.png
