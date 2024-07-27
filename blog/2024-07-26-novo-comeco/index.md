@@ -22,7 +22,7 @@ No dia a dia da universidade, sabemos que ninguém entende melhor os perrengues 
 
 ### O que já está em desenvolvimento:
 
-- **Manual para Alunos:** Um guia completo para te ajudar a navegar pelos desafios acadêmicos e extracurriculares.
+- **Manual do Aluno:** Um guia completo para te ajudar a navegar pelos desafios acadêmicos e extracurriculares.
 - **Blog:** Artigos e posts que condensam o conhecimento em tópicos práticos e relevantes, escritos por alunos e para alunos.
   
 
