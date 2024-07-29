@@ -4,6 +4,14 @@ sidebar_label: Introdução
 title: Sobre o Projeto
 ---
 
+:::warning
+Não tome decisões antes de confirmar a validade das informações!
+:::
+
+:::warning
+O conteúdo está em fase inicial de desenvolvimento e não foi revisado!
+:::
+
 O projeto Convergência consiste em ser uma plataforma online para **ajudar alunos na superação de desafios e compartilhar experiências durante o periodo do seu curso**.
 
 No dia a dia da universidade, sabemos que ninguém entende melhor os **perrengues e as vitórias** dos alunos do que nós mesmos. Por isso, o **convergencia.xyz** é um espaço feito por e para alunos. Aqui, trocamos dicas, compartilhamos histórias e oferecemos suporte mútuo para que possamos crescer juntos.
@@ -24,15 +32,9 @@ Este projeto é nosso, e queremos que você faça parte dele! Sua experiência e
 
 Vamos juntos fazer deste projeto um ponto de convergência de ideias, conhecimento e experiências. Acesse agora e junte-se a nós nessa jornada de aprendizado e crescimento coletivo.
 
-Abraços, Thiago Bezerra
+Abraços, Colaboradores do projeto ❤️
 
-:::warning
-Não tome decisões antes de confirmar a validade das informações!
-:::
 
-:::warning
-O conteúdo está em fase inicial de desenvolvimento e não foi revisado!
-:::
 
 
 
