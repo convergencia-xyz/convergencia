@@ -25,7 +25,7 @@ No dia a dia da universidade, sabemos que ninguém entende melhor os **perrengue
 
 ### Mapa de atualizações (Changelog)
 
-Estamos também colocando nossas atualizações e necessidades em nosso mapa de atualizações. Caso queira saber mais sobre nossa evolução e necessidades, dê uma olhada na barra lateral ou acesse diretamente nesse [link](/docs/mapa-atualizacoes/atualizacoes)
+Estamos também colocando nossas atualizações e necessidades em nosso mapa de atualizações. Caso queira saber mais sobre nossa evolução e necessidades, dê uma olhada na barra lateral ou acesse diretamente [clicando aqui](/docs/projeto/atualizacoes).
 
 ### Convite à Colaboração
 Este projeto é nosso, e queremos que você faça parte dele! Sua experiência e conhecimento são valiosos para toda a comunidade. Convidamos você a colaborar com artigos, tutoriais, dicas e qualquer conteúdo que possa ajudar nossos colegas.
