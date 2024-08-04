@@ -39,7 +39,20 @@ O **GitHub Education** oferece benefícios especiais para estudantes e professor
 
 ### Como entrar no programa do GitHub Education
 
-Para aproveitar as vantagens do GitHub Education, siga estes passos:
+#### Requisitos Pré-Cadastro:
+
+Antes de aplicar para o GitHub Education, certifique-se de:
+
+- Assegure sua conta no GitHub com autenticação de dois fatores. Talvez você precise sair e entrar novamente no GitHub antes de reaplicar.
+
+- Complete suas informações de faturamento no GitHub com seu nome completo exatamente como aparece no seu documento de afiliação acadêmica. Você não precisa adicionar um método de pagamento. Pode ser necessário sair e entrar novamente no GitHub antes de reaplicar. Se você tiver apenas um nome legal, insira-o nos campos de nome e sobrenome.
+
+- Use a câmera do seu dispositivo para enviar documentos de afiliação acadêmica.
+Você provavelmente não será verificado até que complete seu perfil de usuário do GitHub com seu nome completo exatamente como aparece no seu documento de afiliação acadêmica. 
+
+- Não use variações do seu nome ou apelidos. Uma vez que tenha atualizado seu perfil, saia e entre novamente no GitHub antes de reaplicar.
+
+#### Processo de Cadastro:
 
 > Vídeo tutorial: [Como emitir atestado e outros documentos no SIGAA](https://www.youtube.com/watch?v=KBL98FmcW0k)
 
@@ -47,11 +60,10 @@ Para aproveitar as vantagens do GitHub Education, siga estes passos:
 
 
 1. Baixe o **Atestado de Matrícula** no [SIGAA](https://sigaa.ufpb.br)
-2. Converta-o para imagem (.png) cliclando [aqui](https://pdf2png.com/pt/).
-3. Acesse [GitHub Education](https://education.github.com).
-4. Clique em **Get benefits** no canto superior direito.
-5. Complete o processo de inscrição fornecendo sua identificação estudantil (comprovante de matrícula do SIGAA).
-6. Aguarde a verificação de sua situação de estudante. Uma vez verificado, você começará a receber seus benefícios.
+2. Acesse [GitHub Education](https://education.github.com).
+3. Clique em **Get benefits** no canto superior direito.
+4. Complete o processo de inscrição fornecendo sua identificação estudantil (comprovante de matrícula do SIGAA).
+5. Aguarde a verificação de sua situação de estudante. Uma vez verificado, você começará a receber seus benefícios.
 
 
 
